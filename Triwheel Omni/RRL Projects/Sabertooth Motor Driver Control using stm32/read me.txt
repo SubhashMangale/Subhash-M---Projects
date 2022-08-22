@@ -1,0 +1,5 @@
+Sabertooth motor driver is special type of dc motor driver which has special type of interface.
+Normal dc motor drivers works only on PWM signal but they have noise in their operation.
+Sabertooth work on different modes.To study its datasheet click on below link:
+link: https://www.dimensionengineering.com/datasheets/Sabertooth2x32.pdf
+
